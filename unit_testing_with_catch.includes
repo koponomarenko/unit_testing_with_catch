@@ -1,0 +1,5 @@
+subprojects/Catch2-2.2.2/include/internal
+subprojects/Catch2-2.2.2/include/reporters
+subprojects/Catch2-2.2.2/projects/XCode/OCTest/OCTest
+
+subprojects/Catch2-2.2.2/single_include
