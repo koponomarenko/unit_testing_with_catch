@@ -1,2 +1,4 @@
 src = ['main.cpp']
-executable('main', sources : src)
+inc = include_directories('.')
+
+main_prog = executable('main', sources : src)

@@ -1,3 +1,8 @@
+src/Command_result.h
+src/ICommand_result.h
+src/IState_checker.h
+src/State_checker.h
+src/main.cpp
 src/main.cpp
 subprojects/Catch2-2.2.2/examples/000-CatchMain.cpp
 subprojects/Catch2-2.2.2/examples/010-TestCase.cpp
